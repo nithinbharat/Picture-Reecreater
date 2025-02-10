@@ -1,1 +1,2 @@
-# Picture-Reecreater
+# Picture_Recreator
+can verting image into gray scale, JPG, etc...
